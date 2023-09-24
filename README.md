@@ -1,7 +1,7 @@
 
 ## Generate LLVM dataflow graphs
 
-This is a port of github.com/pfalcon/graph-llvm-ir
+This is a port of [graph-llvm-ir](github.com/pfalcon/graph-llvm-ir)
 from the old [`llvmpy`](github.com/llvmpy/llvmpy) library to the new and better maintained [`numba.llvmlite`](github.com/numba/llvmlite).
 
 
